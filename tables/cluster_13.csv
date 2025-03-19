@@ -1,8 +1,10 @@
-,regions,law_schools,theology_schools,exegetical_interests,periods,date,author_name,author_id,tafsir_name,tafsir_id
-0,Iran (East),Shafiʿi,"Sunni, undefined",,"early, post-Buyid; Mamluk",1075,Abū 'l-Ḥasan ʿAlī ibn Aḥmad al-Wāḥidī,80,al-Waǧīz fī tafsīr al-kitāb al-ʿazīz,60
-1,Iraq,Ibadi,Athariyya,,colonial,1854,Abū 'ṯ-Ṯanāʾ Šihāb ad-Dīn Maḥmūd ibn ʿAlī al-Alūsī al-Ḥasanī al-Ḥusaynī al-Baġdādī,4,Rūḥ al-maʿānī: fī tafsīr al-Qurʿān al-ʿaẓīm wa-s-sabʿ al-maṯānī,52
-2,Egypt,Sunni,"Sunni, undefined",,post-colonial,2000,Laǧnat al-Qurʾān wa-s-Sunna fī Maǧlis al-Aʿlā li-š-Šuʾūn al-Islāmiyya,38,al-Muntaḫab fī tafsīr al-Qurʾān al-Karīm,65
-3,Khwarazm,Sunni,Muʿtazila,,pre-Mongolian,1144,Maḥmūd ibn ʿUmar az-Zamaḫšarī,81,al-Kaššāf ʿan ḥaqāʾiq ġawāmiḍ at-tanzīl wa-ʿuyūn al-aqāwīl fī wuǧūh at-taʾwīl,2
-4,Algeria,Ibadi,Ibadi,,colonial,1914,Muḥammad ibn Yūsuf Aṭfayyiš,8,Himyān az-zād ilā dār al-maʿād,49
-5,Algeria,Ibadi,Ibadi,,colonial,1914,Muḥammad ibn Yūsuf Aṭfayyiš,8,Taysīr at-tafsīr li-l-qurʾān al-karīm,50
-6,Iran (West),Jaʿfari,Tasawwuf,,colonial,1909,Sulṭān Muḥammad al-Ǧunābaḏī,18,Tafsīr Bayān as-saʿāda fī maqāmāt al-ʿibāda,42
+,regions,law_schools,theology_schools,exegetical_interests,periods,date,author_name,author_id,tafsir_name,tafsir_id,sc_id
+0,Algeria,Ibadi,Ibadi,,colonial,1914,Muḥammad ibn Yūsuf Aṭfayyiš,8,Himyān az-zād ilā dār al-maʿād,49,sc.49_15_41_41
+1,Egypt; Greater Syria,Sunni,Ashʿariyya,,"early, post-Buyid; post-Mongolian",1262,ʿIzz ad-Dīn Abū Muḥammad ʿAbd al-ʿAzīz ibn ʿAbd as-Salām,24,Tafsīr al-Qurʾān,16,sc.16_15_41_41
+2,Anatolia,Ibadi,Maturidiyya,,Ottoman,1725,Ismāʿīl Ḥaqqī al-Bursawī,35,Rūḥ al-bayān fī tafsīr al-Qurʾān,36,sc.36_15_41_41
+3,"Andalus, al-",Sunni,Ashʿariyya,,Andalusian,1273,Muḥammad ibn Aḥmad al-Qurṭubī,51,al-Ǧāmiʿ li-aḥkām al-Qurʾān,5,sc.5_15_41_41
+4,Iran (West),Sunni,"Sunni, undefined",,"early, post-Buyid",971,Sulaymān ibn Aḥmad aṭ-Ṭabarānī,71,Tafsīr al-Qurʾān al-karīm,91,sc.91_15_41_41
+5,Egypt; Greater Syria,Sunni,"Sunni, undefined",,"early, post-Buyid; post-Mongolian",1355,Šihāb ad-Dīn Aḥmad ibn Yūsuf ibn ʿAbd ad-Dāʾim al-Ḥalabī as-Samīn,60,ad-Durr al-maṣūn fī ʿulūm al-kitāb al-maknūn,79,sc.79_15_41_41
+6,Iraq,Ibadi,Athariyya,,colonial,1854,Abū 'ṯ-Ṯanāʾ Šihāb ad-Dīn Maḥmūd ibn ʿAlī al-Alūsī al-Ḥasanī al-Ḥusaynī al-Baġdādī,4,Rūḥ al-maʿānī: fī tafsīr al-Qurʿān al-ʿaẓīm wa-s-sabʿ al-maṯānī,52,sc.52_15_41_41
+7,Iran (West),Sunni,Ashʿariyya,,post-Mongolian,1479,ʿAbd al-Raḥmān aṯ-Ṯaʿālibī,70,al-Ǧawāhir al-ḥisān fī tafsīr al-Qurʾān,23,sc.23_15_41_44
+8,Iran (East),Sunni,Ashʿariyya; Tasawwuf,,pre-Mongolian,1072,ʿAbd al-Karīm ibn Hawāzin al-Qušayrī,52,Laṭāʾif al-išārāt bi-tafsīr al-Qurʾān,31,sc.31_15_40_41

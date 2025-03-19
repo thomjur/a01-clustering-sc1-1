@@ -1,8 +1,18 @@
-,regions,law_schools,theology_schools,exegetical_interests,periods,date,author_name,author_id,tafsir_name,tafsir_id
-0,Greater Syria,Sunni,"Sunni, undefined",,post-colonial,2022,Asʿad Maḥmūd Ḥawmad,7,"Aysar at-tafāsīr: tafsīr, asbāb nuzūl, aḥādīṯ, namāḏiǧ iʿrāb",71
-1,Egypt,Sunni,"Sunni, undefined",,Mamluk,1505,Ǧalāl ad-Dīn Muḥammad ibn Aḥmad al-Maḥallī,39,Tafsīr al-Ǧalālayn,8
-2,Greater Syria,Sunni,"Sunni, undefined",,colonial,1914,Ǧamāl ad-Dīn Muḥammad al-Qāsimī,48,Maḥāsin at-Taʾwīl,102
-3,Iraq,Ibadi,Athariyya,,colonial,1854,Abū 'ṯ-Ṯanāʾ Šihāb ad-Dīn Maḥmūd ibn ʿAlī al-Alūsī al-Ḥasanī al-Ḥusaynī al-Baġdādī,4,Rūḥ al-maʿānī: fī tafsīr al-Qurʿān al-ʿaẓīm wa-s-sabʿ al-maṯānī,52
-4,Algeria,Ibadi,Ibadi,,colonial,1914,Muḥammad ibn Yūsuf Aṭfayyiš,8,Taysīr at-tafsīr li-l-qurʾān al-karīm,50
-5,Greater Syria,Sunni,"Sunni, undefined",,post-colonial,2022,Asʿad Maḥmūd Ḥawmad,7,"Aysar at-tafāsīr: tafsīr, asbāb nuzūl, aḥādīṯ, namāḏiǧ iʿrāb",71
-6,Egypt,Sunni,"Sunni, undefined",,Mamluk,1505,Ǧalāl ad-Dīn Muḥammad ibn Aḥmad al-Maḥallī,39,Tafsīr al-Ǧalālayn,8
+,regions,law_schools,theology_schools,exegetical_interests,periods,date,author_name,author_id,tafsir_name,tafsir_id,sc_id
+0,Yemen,Maliki,Zaydiyya,,Ottoman,1695,Aḥmad ʿAlī Muḥammad ʿAlī al-Aʿqam al-Ānisī,6,Tafsīr al-Aʿqam,47,sc.47_20_129_135
+1,Morocco,Sunni,"Ashʿariyya; Shiʿa, undefined",,pre-Mongolian,1210,Rūzbihān al-Baqlī aš-Šīrāzī,11,ʿArāʾis al-bayān fī ḥaqāʾiq al-Qurʾān,4,sc.4_20_131_135
+2,Yemen,Sunni,"Sunni, undefined",,post-Mongolian,1414,Muḥammad ibn Yaʿqūb al-Fīrūzābādī,14,Tafsīr al-Qurʾān,10,sc.10_20_129_135
+3,Iraq,Sunni,Tasawwuf,,post-Mongolian,1166,ʿAbd al-Qādir ibn Abū Ṣālīḥ al-Ǧīlānī,17,Tafsīr al-Ǧīlānī,95,sc.95_20_126_135
+4,Iran (West),Sunni,Ashʿariyya,,post-Mongolian,1319,ʿAbdallāh ibn ʿUmar al-Bayḍāwī,12,Anwār at-tanzīl wa-asrār at-taʾwīl,6,sc.6_20_129_135
+5,Iran (West),Jaʿfari,Twelver Shiʿa,,pre-Mongolian,1153,al-Faḍl ibn al-Ḥasan aṭ-Ṭabarsī,73,Maǧmaʿ al-bayān fī tafsīr al-Qurʾān,3,sc.3_20_131_135
+6,Iran (East),Sunni,Tasawwuf,,post-Mongolian,1328,Nizām ad-Dīn al-Ḥasan ibn Muḥammad an-Nīsābūrī,47,Ġarāʾib al-Qurʾān wa-raġāʾib al-furqān,22,sc.22_20_115_135
+7,Iran (East),Shafiʿi,"Sunni, undefined",,"early, post-Buyid; Mamluk",1035,Aḥmad ibn Muḥammad Abū Isḥāq aṯ-Ṯaʿlabī,75,al-Kašf wa-l-bayān fī tafsīr al-Qurʾān,75,sc.75_20_115_135
+8,Iran (West),Jaʿfari,Twelver Shiʿa,,pre-Mongolian,1067,Muḥammad ibn Ḥasan aṭ-Ṭūsī,78,at-Tibyān fī tafsīr al-Qurʾān,39,sc.39_20_131_135
+9,Greater Syria,Sunni,"Sunni, undefined",,Mamluk,1480,Burḥān ad-Dīn Abū al-Ḥasan Ibrāhīm ibn ʿUmar al-Biqāʿī,13,Naẓm ad-durar fī tanāsub al-ayāt wa-s-suwar,25,sc.25_20_128_135
+10,Greater Syria,Shafiʿi,"Sunni, undefined",,Mamluk,1341,ʿAlī ibn Muḥammad ibn al-Ḫāzin aš-Šiḥi,20,Lubāb at-taʾwīl fī maʿānī at-tanzīl,18,sc.18_20_130_135
+11,"Andalus, al-; Egypt",Sunni,"Sunni, undefined",,Andalusian,1345,Aṯīr ad-Dīn Abū Ḥayyān Muḥammad ibn Yūsuf ibn ʿAlī ibn Ḥayyān al-Andalūsī,2,an-Nahr al-mādd min al-baḥr al-muḥīṭ,90,sc.90_20_127_135
+12,Yemen,Sunni,Athariyya,,18th century,1834,Muḥammad ibn ʿAlī ibn Muḥammad aš-Šawkānī,64,Fatḥ al-qadīr,9,sc.9_20_128_135
+13,Greater Syria,Sunni,"Sunni, undefined",,post-colonial,2021,Muḥammad ʿAlī aṣ-Ṣābūnī,55,Ṣawfat at-tafāsīr: tafsīr li-l-Qurʾān al-karīm,83,sc.83_20_99_135
+14,Iran (West),Jaʿfari,Twelver Shiʿa,,post-colonial,1981,Muḥammad Ḥusayn aṭ-Ṭabāṭabāʾī,74,al-Mīzān fī tafsīr al-Qurʾān,56,sc.56_20_127_135
+15,"Andalus, al-; Egypt",Sunni,"Sunni, undefined",,Andalusian,1345,Aṯīr ad-Dīn Abū Ḥayyān Muḥammad ibn Yūsuf ibn ʿAlī ibn Ḥayyān al-Andalūsī,2,al-Baḥr al-muḥīṭ,19,sc.19_20_128_135
+16,Iran (East),Sunni; Zaydi; other law school,"Sunni, undefined",,18th century; pre-Mongolian,1220,Naǧm ad-Dīn Aḥmad ibn ʿUmar al-Kubrā,3,at-Taʾwīlāt an-naǧmiyya fī at-tafsīr al-ʾišārī aṣ-ṣūfī,97,sc.97_20_131_135

@@ -1,13 +1,8 @@
-,regions,law_schools,theology_schools,exegetical_interests,periods,date,author_name,author_id,tafsir_name,tafsir_id
-0,Iraq,Jaʿfari,Twelver Shiʿa,,"early, pre-Buyid",900,Abū 'l-Qāsim Furāt ibn Ibrāhīm ibn Furāt al-Kūfī,15,Tafsīr Furāt al-Kūfī,48
-1,Iran (East),Shafiʿi,"Sunni, undefined",,pre-Mongolian,1122,al-Ḥusayn ibn Masʿūd al-Baġawī,10,Maʿālim at-tanzīl,13
-2,Yemen,Maliki,Zaydiyya,,Ottoman,1695,Aḥmad ʿAlī Muḥammad ʿAlī al-Aʿqam al-Ānisī,6,Tafsīr al-Aʿqam,47
-3,Iran (West),Jaʿfari,Twelver Shiʿa,,pre-Mongolian,1067,Muḥammad ibn Ḥasan aṭ-Ṭūsī,78,at-Tibyān fī tafsīr al-Qurʾān,39
-4,Jordan ,Sunni,"Sunni, undefined",,post-colonial,1984,Ibrāhīm al-Qaṭṭān,49,Taysīr at-tafsīr,68
-5,Iran (East),Shafiʿi,"Sunni, undefined",,"early, post-Buyid; Mamluk",1035,Aḥmad ibn Muḥammad Abū Isḥāq aṯ-Ṯaʿlabī,75,al-Kašf wa-l-bayān fī tafsīr al-Qurʾān,75
-6,Egypt,Sunni,"Sunni, undefined",,post-colonial,2000,Laǧnat al-Qurʾān wa-s-Sunna fī Maǧlis al-Aʿlā li-š-Šuʾūn al-Islāmiyya,38,al-Muntaḫab fī tafsīr al-Qurʾān al-Karīm,65
-7,Greater Syria,Sunni,Athariyya,,Mamluk,1373,Ismāʿīl ibn ʿUmar ibn Kaṯīr,34,Tafsīr al-Qurʾān al-ʿaẓīm,7
-8,Arabian Peninsula; Iraq,Maliki,"Sunni, undefined",,"Abbasid; early, post-Buyid",1045,Makkī ibn Abū Ṭālib al-Qaysī,40,al-Hidāya ilā bulūġ an-nihāya,92
-9,Egypt,Sunni,Ashʿariyya,,Mamluk,1505,Ǧalāl ad-Dīn ʿAbd ar-Raḥmān Ibn Abī Bakr as-Suyūṭī,68,ad-Durr al-manṯūr fī at-tafsīr bi-l-maʾṯūr,26
-10,Greater Syria,Sunni,"Sunni, undefined",,post-colonial,2021,Muḥammad ʿAlī aṣ-Ṣābūnī,55,Muḫtaṣar tafsīr Ibn Kaṯīr,84
-11,"Andalus, al-",Sunni,"Sunni, undefined",,"Andalusian; early, post-Buyid",1009,Muḥammad ibn ʿAbdallāh ibn Abī Zamanīn,25,Tafsīr al-Qurʾān al-ʿazīz,104
+,regions,law_schools,theology_schools,exegetical_interests,periods,date,author_name,author_id,tafsir_name,tafsir_id,sc_id
+0,Greater Syria,Sunni,"Sunni, undefined",,colonial,1914,Ǧamāl ad-Dīn Muḥammad al-Qāsimī,48,Maḥāsin at-Taʾwīl,102,sc.102_37_23_23
+1,Iraq,Zaydi,Zaydiyya,,early,740,Zayd ibn ʿAlī al-Ḥusayn,82,Tafsīr ġarīb al-Qurʾān,89,sc.89_37_23_23
+2,Greater Syria,Sunni,"Sunni, undefined",,post-colonial,2022,Asʿad Maḥmūd Ḥawmad,7,"Aysar at-tafāsīr: tafsīr, asbāb nuzūl, aḥādīṯ, namāḏiǧ iʿrāb",71,sc.71_37_23_23
+3,Egypt; Greater Syria,Sunni,Ashʿariyya,,"early, post-Buyid; post-Mongolian",1262,ʿIzz ad-Dīn Abū Muḥammad ʿAbd al-ʿAzīz ibn ʿAbd as-Salām,24,Tafsīr al-Qurʾān,16,sc.16_37_23_23
+4,Iran (West),Jaʿfari,Twelver Shiʿa,,Abbasid,919,ʿAlī ibn Ibrāhim al-Qummī,50,Tafsīr al-Qurʾān,38,sc.38_37_23_23
+5,"Andalus, al-",Sunni,Ashʿariyya,,Andalusian,1340,Muḥammad ibn Ahmad ibn Ǧuzayy al-Ġarnāṭī,33,Kitāb at-Tašīl li-ʿulūm at-tanzīl,88,sc.88_37_23_23
+6,Egypt,Sunni,"Sunni, undefined",,Mamluk,1505,Ǧalāl ad-Dīn Muḥammad ibn Aḥmad al-Maḥallī,39,Tafsīr al-Ǧalālayn,8,sc.8_37_23_23

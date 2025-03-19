@@ -1,7 +1,9 @@
-,regions,law_schools,theology_schools,exegetical_interests,periods,date,author_name,author_id,tafsir_name,tafsir_id
-0,Iran (East),Sunni,Tasawwuf,,post-Mongolian,1328,Nizām ad-Dīn al-Ḥasan ibn Muḥammad an-Nīsābūrī,47,Ġarāʾib al-Qurʾān wa-raġāʾib al-furqān,22
-1,Iran (East),Shafiʿi,"Sunni, undefined",,"early, post-Buyid; Mamluk",1035,Aḥmad ibn Muḥammad Abū Isḥāq aṯ-Ṯaʿlabī,75,al-Kašf wa-l-bayān fī tafsīr al-Qurʾān,75
-2,Iraq,Sunni,Ashʿariyya,,pre-Mongolian,1200,ʿAbd ar-Raḥmān ibn ʿAlī ibn al-Ǧawzī,28,Zād al-masīr fī ʿilm at-tafsīr,15
-3,Iran (West),Sunni,Ashʿariyya,,post-Mongolian,1319,ʿAbdallāh ibn ʿUmar al-Bayḍāwī,12,Anwār at-tanzīl wa-asrār at-taʾwīl,6
-4,Iran (West),Hanafi,Maturidiyya,,post-Mongolian,1311,Ḥāfiẓ ad-Dīn Abū l-Barakāt ʿAbdallāh ibn Aḥmad an-Nasafī,45,Madārik at-tanzīl wa-ḥaqāʾiq at-taʾwīl,17
-5,"Andalus, al-; Egypt",Sunni,"Sunni, undefined",,Andalusian,1345,Aṯīr ad-Dīn Abū Ḥayyān Muḥammad ibn Yūsuf ibn ʿAlī ibn Ḥayyān al-Andalūsī,2,an-Nahr al-mādd min al-baḥr al-muḥīṭ,90
+,regions,law_schools,theology_schools,exegetical_interests,periods,date,author_name,author_id,tafsir_name,tafsir_id,sc_id
+0,Egypt,Sunni,"Sunni, undefined",,Mamluk,1505,Ǧalāl ad-Dīn Muḥammad ibn Aḥmad al-Maḥallī,39,Tafsīr al-Ǧalālayn,8,sc.8_37_118_118
+1,Greater Syria,Sunni,"Sunni, undefined",,colonial,1914,Ǧamāl ad-Dīn Muḥammad al-Qāsimī,48,Maḥāsin at-Taʾwīl,102,sc.102_37_118_118
+2,Iraq,Ibadi,Athariyya,,colonial,1854,Abū 'ṯ-Ṯanāʾ Šihāb ad-Dīn Maḥmūd ibn ʿAlī al-Alūsī al-Ḥasanī al-Ḥusaynī al-Baġdādī,4,Rūḥ al-maʿānī: fī tafsīr al-Qurʿān al-ʿaẓīm wa-s-sabʿ al-maṯānī,52,sc.52_37_118_118
+3,Algeria,Ibadi,Ibadi,,colonial,1914,Muḥammad ibn Yūsuf Aṭfayyiš,8,Taysīr at-tafsīr li-l-qurʾān al-karīm,50,sc.50_37_118_118
+4,Greater Syria,Sunni,"Sunni, undefined",,post-colonial,2022,Asʿad Maḥmūd Ḥawmad,7,"Aysar at-tafāsīr: tafsīr, asbāb nuzūl, aḥādīṯ, namāḏiǧ iʿrāb",71,sc.71_37_118_118
+5,Greater Syria,Sunni,"Sunni, undefined",,post-colonial,2022,Asʿad Maḥmūd Ḥawmad,7,"Aysar at-tafāsīr: tafsīr, asbāb nuzūl, aḥādīṯ, namāḏiǧ iʿrāb",71,sc.71_1_6_6
+6,Iran (East),Sunni,"Sunni, undefined",,"early, post-Buyid",942,Abū Bakr Muḥammad ibn ʿAzīz as-Siǧistānī,65,Nuzhat al-qulūb fī ʿalām al-ġuyūb,105,sc.105_1_6_6
+7,Egypt,Sunni,"Sunni, undefined",,Mamluk,1505,Ǧalāl ad-Dīn Muḥammad ibn Aḥmad al-Maḥallī,39,Tafsīr al-Ǧalālayn,8,sc.8_1_6_6
