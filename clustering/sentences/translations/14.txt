@@ -1,0 +1,10 @@
+,original_sentence,translation
+0,قاله قتادة وهو رواية عن عمر بن الخطاب وابن عباس.,"He said it, Qatadah, and it is a narration from Umar ibn al-Khattab and Ibn Abbas."
+1,قال قتادة: هو من قول الجن للإنس.,Qatada said: It is the saying of the jinn to the humans.
+2,قال قتادة: هو الجنة.,Qatada said: It is Paradise.
+3,قالوا: أي قالت الإنس للجن.,"They said: ""That is, the humans said to the jinn."""
+4,قال قتادة مستسلمون في عذاب الله.,"He said, ""Submissive in the punishment of Allah."""
+5,قتادة: هو قول الإنس للجن.,Qatadah: It is the saying of humans to the jinn.
+6,وقيل: وأشياعهم من الكفار عن قتادة.,"And it was said: ""And their followers among the disbelievers,"" according to Qatadah."
+7,وقال قتادة: معناه وأشياعهم من الكفار.,"He said, Qatadah: Its meaning is 'and their followers among the disbelievers.'"
+8,فعلى ذلك قول قتادة.,"So, according to Qatadah."

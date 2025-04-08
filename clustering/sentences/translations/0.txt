@@ -1,0 +1,8 @@
+,original_sentence,translation
+0,{انتهى.},It is over.
+1,{انتهى.},It is over.
+2,{انتهى.},It is over.
+3,{انتهى.},It is over.
+4,{انتهى.},It is over.
+5,{هـ.},"""H."""
+6,{(انتهى).},{(It is over).}

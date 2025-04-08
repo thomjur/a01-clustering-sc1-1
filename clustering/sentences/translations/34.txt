@@ -1,0 +1,14 @@
+,original_sentence,translation
+0,"قوله {أو آباؤنا} من قرأ بسكون الواو فمعطوف على محل اسم \"" أن \""، ومن قرأ بفتحها فعليه، أو على الضمير في {مبعوثون} وحسن الفصل بهمزة الاستفهام والمعنى: أيبعث أيضاً آباؤنا؟","His saying, ""Or our fathers?"" Whoever reads it with the waaw in the accusative case, it is conjoined to the position of the name ""that."" And whoever reads it with the waaw in the nominative case, it is conjoined to the pronoun in ""will be resurrected."" And it is good to separate it with the hamza of interrogation, and the meaning is: ""Will our fathers also be resurrected?"""
+1,يعنون أنهم أقدم فبعثهم أبعد.,"They claim they are older, so their mission is further."
+2,وهذا استفهام على إنكار، أي: لا نبعث ولا آباؤنا الأولون.,"This is a question of denial, meaning: ""We will not be resurrected, nor will our forefathers."""
+3,{أوَ آباؤنا} هذه ألف الاستفهام دخلت على حرف العطف، كقوله: {أوَ أَمِنَ أَهْلُ القُرى} [الاعراف: 98].,"""Or our fathers?"" This is the letter of interrogation that entered upon the conjunction, as in His saying: ""Or did the people of the towns feel secure?"" [Al-A'raf: 98]."
+4,وقرأ نافع، وابن عامر: {أوْ آباؤنا الأَوَّلُونَ} بسكون الواو هاهنا وفي [الواقعة: 48].,"Nafi' and Ibn 'Amir recited: ""Or our forefathers of old"" with the waaw (و) silent here and in [Al-Waqiah: 48]."
+5,{أَوَ آبَآؤُنَا ٱلأَوَّلُونَ} أي: أَوَ يبعث آباؤنا الماضون، أَنْكَروا البعث فقال (الله) جل ذكره لنبيه.,"""Or our forefathers of old?"" That is, ""Will our forefathers who have passed away be resurrected?"" They denied the resurrection, so Allah, the Exalted in Might and Majestic in Glory, said to His Prophet."
+6,"و \"" الواو \"" بمعنى \"" مع \""، أو: عاطفة.","""and"" or ""with"""
+7,{أَوَ ءَابَآؤُنَا ٱلأَوَّلُونَ}، أي: وآباؤنا الأولون.,"""Or our forefathers of old?"""
+8,{أَوَ ءَابَاؤُنَا ٱلأَوَّلُونَ} عطف على محل {إِن} واسمها، أو على الضمير في «مبعوثون» فإنه مفصول منه بهمزة الاستفهام لزيادة الاستبعاد لبعد زمانهم، وسكن نافع برواية قالون بن عامر والواو على معنى الترديد.,"""Or our forefathers of old?"""
+9,{أَوَ آبَآؤُنَا ٱلأَوَّلُونَ} أي أو آباؤنا الأولون كذلك سيُبعثون؟,"""Or our forefathers of old?"""
+10,قال الزمخشري: أي أيبعث أيضاً آباؤنا؟,Did our forefathers also rise again?
+11,وقرأ ابن عامر أوْ آباؤنا الأولون: بسكون الواو.,"And Ibn Amer read ""or our forefathers"" with the sukun of the waw."
+12,{(17) أَوَآبَاؤُنَا الأَوَّلُونَ} وقرئ بسكون الواو في اَوَ.,"""Or our forefathers?"" And it is read with the sukun on the waw in ""aw."""

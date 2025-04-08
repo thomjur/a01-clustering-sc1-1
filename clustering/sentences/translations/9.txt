@@ -1,0 +1,14 @@
+,original_sentence,translation
+0,والثالث: أشياعهم، قاله قتادة.,And the third: their followers. This was said by Qatadah.
+1,والثالث: عن خطاياهم، قاله الضحاك.,"And the third: about their sins, said Al-Dahhak."
+2,فيه ثلاثة أوجه: أحدها: المكذبون بالرسل.,There are three aspects: one of them: those who deny the messengers.
+3,الثالث: هم كل من تعدى على الخالق والمخلوق.,The third: They are all those who transgress against the Creator and the created.
+4,الثالث: الأصنام، قاله قتادة وعكرمة.,"The third: idols, as stated by Qatadah and Ikrimah."
+5,الثالث: فادعوهم، قاله السدي.,"Third: ""Then call them,"" as stated by As-Suddi."
+6,الرابع: عن جلسائهم، قاله عثمان بن زيادة.,"Fourth: About their companions, said Uthman bin Ziyad."
+7,والثالث: للنصارى.,And the third: for the Christians.
+8,والرابع: للصابئين.,And the fourth: for the Sabians.
+9,والخامس: للمجوس.,And the fifth: for the Magians.
+10,والسادس: للمشركين.,And the sixth: for the polytheists.
+11,والسابع: للمنافقين.,And the seventh: for the hypocrites.
+12,وسدت أن مسد مفعولي نبىء ان قلنا انها تعدت إلى ثلاثة وسد واحد ان قلنا انها تعددت إلى اثنين.,"The translation is: ""And I have closed that my action is a prophet, inform that we said it exceeded to three and closed one if we said it exceeded to two."""

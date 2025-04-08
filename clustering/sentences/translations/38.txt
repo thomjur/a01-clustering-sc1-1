@@ -1,0 +1,6 @@
+,original_sentence,translation
+0,أو: نساءهم الكافرات، أو: قرناءهم من الشياطين.,"Or: their unbelieving women, or: their companions from the devils."
+1,وقال الضحاك: «وَأَزْوَاجَهُمْ» قرناءهم من الشياطين.,"And Ad-Dahhak said: ""And their 'spouses' are their companions from the devils."""
+2,وقيل: اتباعهم على الكفر من نسائهم.,"It was said: ""Their following them in disbelief is from their women."""
+3,وقال: {وَمِنَ ٱلإِبْلِ ٱثْنَيْنِ وَمِنَ ٱلْبَقَرِ ٱثْنَيْنِ …} [الأنعام: 144].,"And He said: {And of the camels two, and of the cattle two...} [Al-An'am: 144]."
+4,وأزواجهم: أي قُرناءهم من الشياطين.,"And their mates: that is, their companions from the devils."

@@ -1,0 +1,15 @@
+,original_sentence,translation
+0,تسفيهٌ لهم وتجهيل أيْ أيُّ شيء حصل لكم حتى حكمتم بهذا الحكم الجائر؟,What is this mockery and ignorance? What has happened to you that you have made such an unjust ruling?
+1,والإِضراب المستفاد من {بَل} إضراب لإِبطال إمكان التناصر بينهم وليس ذلك مما يتوهمه السمع، فلذلك كان الإِضراب تأكيداً لما دل عليه الاستفهام من التعجيز.,"The negation implied by ""بل"" is a negation that invalidates the possibility of mutual support among them, and this is not something that the ear might imagine. Therefore, the negation is a confirmation of the incapacitation indicated by the question."
+2,والجواب أنا لا نسلم حذقهم في كل الأمور ولهذا جاء في وجوه تسخيرهم ما جاء على أن موضع الاستراق والاحتراق غير متعين، ووقوع هذه الحالة أيضاً كالنادر.,"The answer is that we do not concede their proficiency in all matters, and this is why it is mentioned in the ways of their subjugation, and the place of interception and burning is not determined, and the occurrence of this state is also rare."
+3,لم يستقم فبقي أن يكون كلاماً منقطعاً مبتدأ به لاقتصاص حال المسترقة للسمع.,"He did not straighten up, so it remained that it would be a disconnected speech, beginning with the recounting of the condition of the one who steals the hearing."
+4,وقيل: هذه حالة تحصل عند الجهل بصفة الشيء.,It was said: This is a state that occurs when one is ignorant of the nature of a thing.
+5,وإن كان على يقين من دوامه.,If he is certain of its permanence.
+6,أي هو لما يقوله.,It is what he says.
+7,واحتمال كون الاستثناء متصلاً ضعيف لا يخلو من تكلف.,The likelihood of the exception being connected is weak and not without effort.
+8,أقول وهذا المعنى مروي بطرق عديدة.,"I say, and this meaning is narrated in many ways."
+9,ولم يقل مقصورات.,"He did not say ""restricted."""
+10,والمعنى متقارب.,The meaning is similar.
+11,هذا كلام يقال عند الوقوع في الهلاك.,This is a saying said when one is in peril.
+12,أي هو حق وصيرورتهم إلى هذين القسمين ليس لك والعرب تقول: طريقك في هذا الأمر على فلان أي إليه يصير النظر في أمرك وقرأ الجمهور على جاراً أو مجروراً ويتعلق بقوله: مستقيم.,"It is right and their becoming into these two sections is not for you. And the Arabs say: ""Your way in this matter is to such and such,"" meaning, ""to him the matter of you will be referred."" The majority read it as a prepositional phrase, either as a genitive or dative, and it relates to the saying: ""straight."""
+13,أي مستقيم على إرادتي وحكمي.,Anything straight on my will and judgment.

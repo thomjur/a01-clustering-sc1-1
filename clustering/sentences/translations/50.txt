@@ -1,0 +1,6 @@
+,original_sentence,translation
+0,"الثاني: عن \"" لا إِله إِلا الله \""، رويا جميعاً عن ابن عباس.","The second: about ""There is no god but Allah,"" narrated together by Ibn Abbas."
+1,"وقوله {ولولا نعمة ربي لكنت من المحضرين} المراد بالنعمة التوفيق والهداية الإِلهية، والإِحضار الإِشخاص للعذاب قال في مجمع البيان ولا يستعمل \"" أحضر \"" مطلقاً إلا في الشر.","""His saying, 'And were it not for the blessing of my Lord, I would have been among those brought forth [for punishment].' The blessing referred to is divine guidance and success, and 'brought forth' means being summoned for punishment. It is said in Majma' al-Bayan, 'The term 'brought forth' is never used absolutely except in reference to evil.'"""
+2,ٱبن عباس: عن لا إلٰه إلا الله.,Ibn Abbas: About there is no god but Allah.
+3,وقيل: عن قول لا إله إلا الله عن ابن عباس.,"It is said: about the saying ""There is no god but Allah"" from Ibn Abbas."
+4,وروي عنه عن: لا إله إلا الله.,"And it was narrated from him: ""There is no god but Allah."""

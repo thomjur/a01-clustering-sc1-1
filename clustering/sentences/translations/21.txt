@@ -1,0 +1,13 @@
+,original_sentence,translation
+0,{بل عجبت} بالضم: حمزة وعلي وخلف.,"""Indeed, I was amazed"""
+1,وأجيب بأن معناه: قل يا محمد بل عجبت.,"And I respond that its meaning is: Say, O Muhammad, ""Nay, but I wonder."""
+2,{وَيَسْخَرُونَ} وهم يسخرون من تعجبّك.,They mock and they mock your amazement.
+3,فمن فتح أراد: بل عَجِبْتَ يا محمد {ويَسْخَرونَ} هم.,"So whoever opens it wants: But you are amazed, O Muhammad, and they mock."
+4,قال ابن السائب: أنتَ تَعْجَبُ منهم، وهم يَسْخَرون منك.,"Ibn al-Sa'ib said: You are amazed by them, and they mock you."
+5,روي عن ابن مسعود أنه قال: يقال لهم: هل يعجبكم ورود الماء؟,"It is narrated from Ibn Mas'ud that he said: ""They will be asked: Do you like the arrival of water?"""
+6,{وَيَسْخُرُونَ} من تعجبك وتقريرك للبعث، وقرأ حمزة والكسائي بضم التاء أي بلغ كمال قدرتي وكثرة خلائقي أن تعجبت منها، وهؤلاء لجهلهم يسخرون منها.,"""And they mock"" your amazement and your assertion of the resurrection. And Hamza and Al-Kisa'i read with the dammah on the ta' marbuta, meaning, ""My perfection and the multitude of My creations have reached the point that you are amazed by them, and these people, due to their ignorance, mock them."""
+7,أو عجبت من أن ينكر البعث ممن هذه أفعاله وهم يسخرون ممن يجوزه.,"Or are you surprised that the resurrection is denied by those whose deeds are such, and they mock those who believe in it."
+8,يقول ذلك على وجه التعجب والتكذيب والاستبعاد {قَالَ هَلْ أَنتُمْ مُّطَّلِعُونَ}؟,"He said that in astonishment, disbelief, and denial: ""Are you looking?"""
+9,بالنصب يحتمل وجوهاً: أحدها: عجبت منهم إنكارهم ما أنكروا بعد كثرة قيام الآيات والحجج عليهم في ذلك وهم ينكرون ويسخرون.,"""By the accusative, it can be interpreted in several ways: One of them: I am amazed at their denial of what they deny, despite the abundance of signs and proofs against them in this regard, and they deny and mock."""
+10,أو يقول: عجبت ويسخرون؛ لما أنك بزعمهم لعظيم ما ينزل بهم من العذاب والشدائد وما يستقبلهم من الأمور المهمة وهم يسخرون، والله أعلم.,"He says: ""I am amazed and they mock; because, in their opinion, you are great due to the severe punishment and hardships that befall them and the important matters that await them, and they mock."" And Allah knows best."
+11,أو يقول: بل عجبت لما تدعوهم أنت إلى ما به نجاتهم وفلاحهم وهم يسخرون، ونحو ذلك يحتمل، والله أعلم بما كان يعجِّبه.,"Or he says: ""Rather, I am amazed that you call them to what would save them and make them successful, and they mock."" And similar things are possible, and Allah knows best what amazed him."

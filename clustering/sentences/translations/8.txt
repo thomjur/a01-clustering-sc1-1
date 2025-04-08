@@ -1,0 +1,15 @@
+,original_sentence,translation
+0,والثاني: إذ كفروا بالبعث.,And the second: when they disbelieved in the resurrection.
+1,والثاني: أنه عامٌّ في كل ظالم.,The second: that it is general for every oppressor.
+2,الثاني: يوم الجزاء، قاله قتادة.,"The second: the Day of Recompense, as stated by Qatadah."
+3,الثاني: يفصل فيه بين الحق والباطل، قاله ابن عيسى.,"Second: It distinguishes between truth and falsehood, as said by Ibn Isa."
+4,الثاني: هم الشُرَط، حكاه الثوري.,"Second: They are the police, as narrated by Al-Thawri."
+5,الثاني: قرناؤهم، قاله ابن عباس.,"Second: Their companions, said Ibn Abbas."
+6,الثاني: فوجهوهم، رواه معاوية بن صالح.,"Second: They directed them, narrated by Muawiyah bin Salih."
+7,الثاني: عما دعوا إليه من بدعة، رواه أنس مرفوعاً.,"Second: Regarding the innovation they called for, narrated by Anas, elevated."
+8,الثاني: لا يمنع بعضكم بعضاً من دخول النار، قاله السدي.,"The second: Do not prevent one another from entering the Fire, as stated by As-Suddi."
+9,الثالث: لا يتبع بعضكم بعضاً في النار يعني العابد والمعبود، قاله قتادة.,"The third: None of you should follow one another into the Fire, meaning the worshipper and the worshipped. This was said by Qatadah."
+10,والثاني: أن تكون فائدتها التخويف والإرهاب.,The second: that its benefit is intimidation and terror.
+11,والثاني: أنه مفعول معه.,The second: that it is an object with it.
+12,2 - بيان أن الأشباه في الكفر أو في الفجور أو في الفسق تحشر مع بعضها بعضا.,"2 - A statement that those similar in disbelief, or in vice, or in sin will be gathered together."
+13,3 - عدم جدوى براءة العابدين من المعبودين واحتجاج التابعين على المتبوعين.,3 - The futility of the innocence of the worshippers from the worshipped ones and the argument of the followers against the leaders.

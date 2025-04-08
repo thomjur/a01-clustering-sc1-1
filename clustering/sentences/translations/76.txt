@@ -1,0 +1,10 @@
+,original_sentence,translation
+0,توبيخٌ وتقريع أي هل اختار جل وعلا البناتِ وفضلهن على البنين؟,"""Reproach and admonition! Did the Most High choose the girls and prefer them over the boys?"""
+1,كيف يختار لنفسه أخسَّ الجنسين على زعمكم؟,"How does he choose for himself the worst of the two genders, according to your claim?"
+2,2ـ تتابع التوبيخ وتكراره مثل {أَلِرَبِّكَ ٱلْبَنَاتُ}؟,"""Is it your Lord who has daughters?"""
+3,وكلها للتوبيخ والتبكيت.,All of it is for reproach and condemnation.
+4,ولم لا تمكرون ولا تحيلون أنواع الحيل والخداع؟,Why do you not scheme and devise all sorts of tricks and deceits?
+5,ولكل من هذه الاستعارات وجه.,Each of these metaphors has a face.
+6,فالجملة الكريمة إضراب إبطالى من المتبوعين، عما ادعاه التابعون.,"The noble sentence is a negation of the followers, from what the followers claimed."
+7,أو على التعيير لهم والتوبيخ.,Or to reproach and rebuke them.
+8,أو على التعليم حجة الحجاج والمناظرة فيما بينهم وبين خصومهم، وهكذا كل سؤال واستفتاء كان من خبير عليم لمن دونه يخرج على هذه الوجوه، وكل سؤال واستفتاء كان من الجهّال لخبير عليم يخرج على استرشاد وطلب الصواب.,"Or on education, the argument of the pilgrims and the debate among them and their opponents, and thus every question and inquiry from an expert knowledgeable to those below him comes out in these ways, and every question and inquiry from the ignorant to an expert knowledgeable comes out in seeking guidance and seeking the truth."

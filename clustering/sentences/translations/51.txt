@@ -1,0 +1,25 @@
+,original_sentence,translation
+0,وقرأ الجمهور {لاَ تَنَاصَرُونَ} بتخفيف المثناة الفوقية على أنه من حذف إحدى التاءين.,"And the majority read {you will not be helped} with the lightening of the upper taa, as if one of the two taas were deleted."
+1,وقرأه البَزِّي عن ابن كثير وأبو جعفر بتشديد المثناة على إدغام إحدى التاءين في الأخرى.,"He read it with Al-Bazzi from Ibn Kathir and Abu Ja'far, emphasizing the double 'ta' by merging one of the two 'ta's into the other."
+2,الآخرون: بسكون السين وتخفيف الميم.,The others: with the sin silent and the mim light.
+3,الآخرون: بالفتح على الخطاب {آيذا} بالمد والياء {إنا} بهمزة واحدة مكسورة: يزيد وقالون وزيد.,"The others: with the opening of the discourse {Aaydhah} with elongation and the letter yaa {Inna} with a single broken hamza: Yazid, Qalun, and Zaid."
+4,الآخرون: بفتح الزاي {لترديني} بالياء في الحالين: يعقوب وافق ورش وسهل وعباس في الوصل.,"Others: With the opening of the Zay {to make me fall} with the Yaa in both cases: Ya'qub agreed with Warsh, Sahl, and Abbas in the case of the connection."
+5,قال الواحدي: إدغام التاء في الصاد حسن وكذا التاء في الزاي وفي الذال لتقارب مخارجها، الا ترى أن التاء والصاد هما من طرف اللسان وأوصل الثنايا ويجتمعان في الهمس، والمدغم فيه يزيد على المدغم في الإطباق والصفير وإدغام الأنقص في الأزيد حسن؟,"Al-Wahidi said: The assimilation of the ta' into the sad is good, and similarly the ta' into the zay and the dhal due to the proximity of their points of articulation. Do you not see that the ta' and the sad are from the tip of the tongue and the front teeth, and they meet in the voicelessness? And the assimilated letter increases over the assimilated letter in the emphaticness and the sibilance, and the assimilation of the lesser into the greater is good?"
+6,وقرأ الآخرون بفتح التاء على خطاب النبي صلى الله عليه وسلم وهي قراءة شريح القاضي.,"And the others read with the opening of the ta' for the address of the Prophet, may God bless him and grant him peace, and it is the reading of Shurayh the judge."
+7,وقرأ عيسى: أنهم، بفتح الهمزة.,"Isa read: ""They,"" with the opening of the hamza."
+8,وقرىء: لا تناصرون، بتاء واحدة وبتاءين، وبإدغام إحداهما في الأخرى.,"It is read: ""You do not help each other,"" with one ta' and with two ta's, and with the assimilation of one into the other."
+9,قرأ الجمهور {مكرمون} بتخفيف الراء.,The public read {honored} with the lightening of the ra.
+10,قرأ الجمهور {سرر} بضم الراء.,The public read {surr} with the damma on the ra.
+11,وقرأ أبو السماك بفتحها، وهي لغة بعض تميم.,"Abu al-Samak read it with the opening (vowel), and it is the language of some of Tamim."
+12,قرأ الجمهور {ينزفون} بضم الياء، وفتح الزاي مبنياً للمفعول.,"The public read {they bleed} with the yaa raised, and the zaay open, in the passive voice."
+13,"وقرأ ابن أبي إسحاق \"" ينزفون \"" بفتح الياء، وكسر الزاي.","And Ibn Abi Ishaq read ""yunzafuna"" with the yaa open and the zaay broken."
+14,وقرأ طلحة بن مصرّف بفتح الياء وضم الزاي.,Talhah bin Musarrif recited with the opening of the yaa and the raising of the zaay.
+15,وتقدمت قراءة البَزِّي لا تناصرون بتشديد التاء.,"And the reading of Al-Bazzi advanced, ""you will not be helped,"" with the emphasis on the letter Ta."
+16,وقرىء تَتَنَاصَرُونَ على الأصل.,"And it is read: ""you will help each other"" according to the original."
+17,وأصله تتناصرون فطُرحت إحدى التاءين تخفيفاً.,"The origin is that you help each other, and one of the two ta's was dropped for ease."
+18,وشدّد الْبَزِّي التاء في الوصل.,And Al-Bazzi emphasized the ta' in the connection.
+19,وزعم الكسائي انه سمع ما اوقفك ها هنا، وانشد الفراء: ترى الناس ما سرنا يسيرون خلفنا وإن نحن اومأنا إلى الناس اوقفوا بالف.,"He claimed that Al-Kisa'i heard what stopped you here, and Al-Farra' recited: ""People follow us as we walk, and if we signal to people, they stop by the thousand."""
+20,والباقون: بل عبجتَ بفتح التاء.,"And the rest: ""But you have opened the door."""
+21,وقرأ ابن عامر: إذا متنا بهمزة واحدة، والباقون: أإذا متنا بهمزتين على الاستفهام.,"And Ibn Amer recited: ""If we die"" with one hamza, while the rest recited: ""If we die"" with two hamzas, as a question."
+22,وقرأ نافع والكسائي ويعقوب: إنا لمبعوثون بهمزة واحدة والباقون: أإنا لمبعوثون.,"Nafi', Al-Kisa'i, and Ya'qub read: ""Inna lamab'uthun"" with one hamza, and the rest read: ""A'inna lamab'uthun."""
+23,ولا أجابوه أو لا؟,Did they answer or not?

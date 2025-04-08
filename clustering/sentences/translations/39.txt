@@ -1,0 +1,10 @@
+,original_sentence,translation
+0,وعن الضحاك الأزواج المقارنون لهم من الشياطين.,"""And about the companions of the devils."""
+1,وقيل: قرناءهم من الشياطين.,It is said: Their companions are from the devils.
+2,الرابع قال مقاتل: رؤوس الشياطين حجارة سود تكون حول مكة.,The fourth one said Muqatil: The heads of the devils are black stones that are around Mecca.
+3,ضحاك ومقاتل: قرناءهم من الشياطين، كل كافر معه شيطانه في سلسلة.,"Laughers and fighters: their companions are from the devils, every disbeliever has his devil in a chain."
+4,والرابع: قُرَناؤهم من الشيَّاطين الذين أضلُّوهم، قاله مقاتل.,"And the fourth: their companions from the devils who misled them, as stated by Muqatil."
+5,وهذا قول مقاتل أيضاً: يحشر كل كافر مع شيطانه في سلسلة.,"This is also the saying of Muqatil: ""Every disbeliever will be gathered with his devil in a chain."""
+6,وقال الضحاك ومقاتل: قرناءهم من الشياطين، كل كافر مع شيطانه في سلسلة.,"And Al-Dhahhak and Muqatil said: ""Their companions are from the devils, every disbeliever with his devil in a chain."""
+7,وقيل قرناؤهم من الشياطين.,And their companions are the devils.
+8,قرناؤهم من الشياطين، بأن يحشر كل كافر مع شيطانه.,"""Their companions will be devils, and they will be gathered with their devils."""

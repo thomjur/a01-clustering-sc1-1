@@ -1,0 +1,7 @@
+,original_sentence,translation
+0,{قَالُواْ} قالت لهم الشياطين: {بَلْ لَّمْ تَكُونُواْ مُؤْمِنِينَ} [آية: 29] مصدقين بتوحيد الله عز وجل {وَمَا كَانَ لَنَا عَلَيْكُمْ مِّن سُلْطَانٍ} من ملك فنكرهكم على متابعتنا {بَلْ كُنتُمْ قَوْماً طَاغِينَ} [آية: 30] عاصين.,"They said, ""Rather, you were not believers. And we had no authority over you, but you were a transgressing people."""
+1,فأجابوهم فَقَالُوا (لهم) {بَلْ لَّمْ تَكُونُواْ مُؤْمِنِينَ} أي: مقرين بتوحيد الله.,"They answered them, saying, ""Nay, you were not believers,"" that is, acknowledging the oneness of Allah."
+2,{قالوا}، أي المخاطبون، إما الجن وإما قادة الكفر: {بل لم تكونوا مؤمنين}: أي لم نقركم على الكفر، بل أنتم من ذواتكم أبيتم الإيمان.,"They said, that is, the addressees, whether they are jinn or leaders of disbelief: ""Rather, you were not believers."" That is, we did not force you to disbelieve, but rather, you yourselves refused to believe."
+3,29 - قال المستكبرون: لم نصرفكم، بل أنتم أبيتم الإيمان وأعرضتم عنه باختياركم.,"29 - The arrogant ones said: ""We did not turn you away, but you yourselves refused to believe and turned away from it of your own accord."""
+4,قالوا بل لم تكونوا مؤمنين: أي قال قرناؤهم من الجن ردّا عليهم بل لم تكونوا أساسا مؤمنين.,"They said, ""No, you were not believers."" That is, their companions from among the jinn replied to them, ""No, you were not believers at all."""
+5,{(29) قَالُوا بَلْ لَمْ تَكُونُوا مُؤْمِنِينَ}.,"They said, ""Rather, you were not believers."""

@@ -1,0 +1,17 @@
+,original_sentence,translation
+0,أي أتشاهدون ذلك ثم لا تعتبرون؟,Do you see that and then do not reflect?
+1,روي أنه لما نزل {فَسَوْفَ يُبْصِرُونَ} استهزءوا وقالوا متى هذا يكون؟,"It is narrated that when {So they will soon see} was revealed, they mocked and said, ""When will this be?"""
+2,{أَفَلاَ تَذَكَّرُونَ}؟,Do you not remember?
+3,ثم حكى عنهم أنه كما أن دأبهم السخرية عند إيراد البراهين فكذلك دأبهم أنهم إذا وعظوا لا يتعظون.,"Then he narrated about them that just as their habit is to mock when proofs are presented, so too is their habit that when they are admonished, they do not take heed."
+4,قوله: {فَإِذَا هُمْ يَنظُرُونَ} أي ينتظرون.,His saying: {فَإِذَا هُمْ يَنظُرُونَ} means they are waiting.
+5,{فَإِذَا هُمْ يَنظُرُونَ} أي: شاخصة أبصارهم / ينظرون إلى ما كانوا يوعدونه من قيام الساعة.,"""Then, behold, they will be looking,"" that is, their eyes will be fixed / they will be looking at what they were promised of the Hour's coming."
+6,"وقيل: \"" ينظرون \"" معناه: ينظر بعضهم بعضاً.","It is said: ""they look"" means: they look at each other."
+7,وقيل: معناه ينتظرون ما يفعل بهم.,It was said: Its meaning is that they are waiting for what will be done to them.
+8,وفي لفظ نظراءهم.,"""and their counterparts."""
+9,{وَقَالُواْ إِن هَـٰذَا} يعنون ما يرونه.,"They said, ""This is what they see."""
+10,{فَإِذَا هُمْ يَنظُرُونَ} فإذا هم قيام من مراقدهم أحياء يبصرون، أو ينتظرون ما يفعل بهم.,"""Then, behold, they will be looking. Then, behold, they will be standing from their graves, alive, seeing, or waiting for what will be done to them."""
+11,أمره أن يستفتيهم، ولم يذكر أنهم ما أفتوه؟,"He ordered him to seek their opinion, and he did not mention that they did not advise him?"
+12,وقوله: {فَإِذَا هُمْ يَنظُرُونَ}.,"And His saying: {Then, behold, they will look.}"
+13,يحتمل قوله: {يَنظُرُونَ} إلى ماذا يؤمرون؟,They are waiting to be commanded.
+14,وعن ماذا ينهون؟,What do they prohibit?
+15,أو ينظرون كالمتحيرين؛ لأنهم كانوا ينكرون البعث ويكذبونه، فإذا عاينوا تحيروا وتاهوا وضجروا، وهكذا الأمر المتعارف في الخلق أن من أنكر شيئاً أو كذبه، ثم أخبر به وأعلم حتى تيقن عنده ما أنكر تحير وضجر؛ فعلى ذلك هؤلاء لما أنكروا في الدنيا وكذبوه ثم عاينوا ذلك وتيقنوا به - تحيروا وضجروا به، ينظرون نظر المتحير الضجر، والله أعلم.,"They look around bewildered; because they used to deny the Resurrection and reject it. So, when they see it, they are bewildered, lost, and distressed. This is the common situation among people: whoever denies or rejects something, then is informed about it and becomes certain of what he denied, he is bewildered and distressed. So, these people, when they denied it in this world and rejected it, then saw it and became certain of it - they were bewildered and distressed by it, looking with the bewildered and distressed gaze. And Allah knows best."
