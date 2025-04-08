@@ -1,5 +1,5 @@
 ,regions,law_schools,theology_schools,exegetical_interests,periods,date,author_name,author_id,tafsir_name,tafsir_id,sc_id
-0,"Andalus, al-; Greater Syria",Zaydi,"Sunni, undefined",,Andalusian,1240.0,Muhyī ad-Dīn ibn ʿArabī,29,Tafsīr al-Qurʾān al-karīm,33,sc.33_19_41_55
+0,"Andalus, al-; Greater Syria",Maliki,"Sunni, undefined",,Andalusian,1240.0,Muhyī ad-Dīn ibn ʿArabī,29,Tafsīr al-Qurʾān al-karīm,33,sc.33_19_41_55
 1,Egypt; Greater Syria,Sunni,"Sunni, undefined",,"early, post-Buyid; post-Mongolian",1355.0,Šihāb ad-Dīn Aḥmad ibn Yūsuf ibn ʿAbd ad-Dāʾim al-Ḥalabī as-Samīn,60,ad-Durr al-maṣūn fī ʿulūm al-kitāb al-maknūn,79,sc.79_19_43_43
 2,Tunisia,Sunni,Ashʿariyya,,colonial,1973.0,Muḥammad aṭ-Ṭāhir ibn ʿAšūr,31,at-Taḥrīr wa-t-tanwīr,55,sc.55_1_6_7
 3,Arabian Peninsula,Sunni,"Sunni, undefined",,post-colonial,1973.0,Muḥammad al-Amīn ibn Muḥammad al-Muḫtār ibn ʿAbd al-Qādir al-Ǧakanī aš-Šanqīṭī,61,Aḍwāʾ al-bayān fī īḍāḥ al-Qurʾān bi-l-Qurʾān,54,sc.54_1_7_7
@@ -12,7 +12,7 @@
 10,Iran (West),Jaʿfari,Twelver Shiʿa,,pre-Mongolian,1067.0,Muḥammad ibn Ḥasan aṭ-Ṭūsī,78,at-Tibyān fī tafsīr al-Qurʾān,39,sc.39_1_7_7
 11,Iraq,Zaydi,Zaydiyya,,early,740.0,Zayd ibn ʿAlī al-Ḥusayn,82,Tafsīr ġarīb al-Qurʾān,89,sc.89_1_1_7
 12,Arabian Peninsula; Greater Syria,Sunni,"Sunni, undefined",,early; pre-Mongolian,1151.0,ʿAbd al-Ḥaqq ibn Ġālib ibn ʿAṭiyya,32,al-Muḥarrar al-waǧīz fī tafsīr al-kitāb al-ʿazīz,14,sc.14_1_1_7
-13,Morocco,Sunni,"Ashʿariyya; Shiʿa, undefined",,pre-Mongolian,1210.0,Rūzbihān al-Baqlī aš-Šīrāzī,11,ʿArāʾis al-bayān fī ḥaqāʾiq al-Qurʾān,4,sc.4_1_7_7
+13,Iran (West),Sunni,Tasawwuf,,pre-Mongolian,1210.0,Rūzbihān al-Baqlī aš-Šīrāzī,11,ʿArāʾis al-bayān fī ḥaqāʾiq al-Qurʾān,4,sc.4_1_7_7
 14,Iran (West),Jaʿfari,Twelver Shiʿa,,pre-Mongolian,1153.0,al-Faḍl ibn al-Ḥasan aṭ-Ṭabarsī,73,Maǧmaʿ al-bayān fī tafsīr al-Qurʾān,3,sc.3_1_7_7
 15,Iran (West),Hanafi,Maturidiyya,,post-Mongolian,1311.0,Ḥāfiẓ ad-Dīn Abū l-Barakāt ʿAbdallāh ibn Aḥmad an-Nasafī,45,Madārik at-tanzīl wa-ḥaqāʾiq at-taʾwīl,17,sc.17_1_1_7
 16,Egypt,Sunni,"Sunni, undefined",,post-colonial,2000.0,Laǧnat al-Qurʾān wa-s-Sunna fī Maǧlis al-Aʿlā li-š-Šuʾūn al-Islāmiyya,38,al-Muntaḫab fī tafsīr al-Qurʾān al-Karīm,65,sc.65_1_1_7
@@ -56,7 +56,7 @@
 54,Iran (East),Shafiʿi,"Sunni, undefined",,pre-Mongolian,1122.0,al-Ḥusayn ibn Masʿūd al-Baġawī,10,Maʿālim at-tanzīl,13,sc.13_1_1_7
 55,Iran (West),Sunni,"Sunni, undefined",,"early, post-Buyid",971.0,Sulaymān ibn Aḥmad aṭ-Ṭabarānī,71,Tafsīr al-Qurʾān al-karīm,91,sc.91_1_7_7
 56,Iran (East),Shafiʿi,"Sunni, undefined",,"early, post-Buyid; Mamluk",1075.0,Abū 'l-Ḥasan ʿAlī ibn Aḥmad al-Wāḥidī,80,al-Waǧīz fī tafsīr al-kitāb al-ʿazīz,60,sc.60_1_5_7
-57,"Andalus, al-; Greater Syria",Zaydi,"Sunni, undefined",,Andalusian,1240.0,Muhyī ad-Dīn ibn ʿArabī,29,Tafsīr al-Qurʾān al-karīm,33,sc.33_1_6_7
+57,"Andalus, al-; Greater Syria",Maliki,"Sunni, undefined",,Andalusian,1240.0,Muhyī ad-Dīn ibn ʿArabī,29,Tafsīr al-Qurʾān al-karīm,33,sc.33_1_6_7
 58,Iran (East),Shafiʿi,"Sunni, undefined",,"early, post-Buyid; Mamluk",1035.0,Aḥmad ibn Muḥammad Abū Isḥāq aṯ-Ṯaʿlabī,75,al-Kašf wa-l-bayān fī tafsīr al-Qurʾān,75,sc.75_1_7_7
 59,Yemen,Sunni,"Sunni, undefined",,post-Mongolian,1414.0,Muḥammad ibn Yaʿqūb al-Fīrūzābādī,14,Tafsīr al-Qurʾān,10,sc.10_1_1_7
 60,Egypt; Greater Syria,Sunni,Ashʿariyya,,"early, post-Buyid; post-Mongolian",1262.0,ʿIzz ad-Dīn Abū Muḥammad ʿAbd al-ʿAzīz ibn ʿAbd as-Salām,24,Tafsīr al-Qurʾān,16,sc.16_1_7_7
